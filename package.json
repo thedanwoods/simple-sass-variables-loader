@@ -1,6 +1,6 @@
 {
   "name": "simple-sass-variables-loader",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple webpack loader that prepends variables to an .scss file",
   "main": "index.js",
   "scripts": {
