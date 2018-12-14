@@ -23,3 +23,4 @@ Webpack runs loaders from right-to-left, or bottom-to-top, so be sure to add thi
 module.exports = () => '$some-variable-name: #ff0';
 ```
 
+As of version 0.1.0 a theme may also return a promise that resolves to a string.
